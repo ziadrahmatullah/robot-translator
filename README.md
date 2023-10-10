@@ -1,5 +1,4 @@
-
-# Robot transalor
+# Robot TRANSALATOR EXERCISE
 
 - FORK THIS REPO
 - CREATE DEV BRANCH
